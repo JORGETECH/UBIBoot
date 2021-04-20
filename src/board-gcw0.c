@@ -25,7 +25,7 @@
 
 
 #define FVCO_MIN  300*1000*1000	/* 300 MHz */
-#define FVCO_MAX  1000*1000*1000	/* 1 GHz */
+#define FVCO_MAX  1080*1000*1000	/* 1080 MHz */
 
 /* The frequency after the input divider must be between 10 and 50 MHz.
 The highest divider yields the best resolution. */
